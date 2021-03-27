@@ -1,4 +1,4 @@
-package com.example.instaclonefirebase;
+package com.faridtahmazov.instaclonefirebase;
 
 import org.junit.Test;
 
